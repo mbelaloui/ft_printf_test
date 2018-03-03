@@ -101,10 +101,8 @@ public class Generat_Format
 				file_name  ="tests//minlength_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
 				System.out.println(file_name);
 				bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
-
 				format = "%*" +type.charAt(d);
 				bufferOutput.write(format+"\n");
-
 				for (int c = 0; c < size; c++)
 				{
 					format = result.get(c);
@@ -128,10 +126,8 @@ public class Generat_Format
 				file_name  ="tests//precision_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
 				System.out.println(file_name);
 				bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
-
 				format = "%.*" +type.charAt(d);
 				bufferOutput.write(format+"\n");
-				
 				for (int c = 0; c < size; c++)
 				{
 					format = result.get(c);
