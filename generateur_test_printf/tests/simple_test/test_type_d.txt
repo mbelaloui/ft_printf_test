@@ -1,0 +1,126 @@
+%d
+%+d
+%+-d
+%+- d
+%+- 0d
+%+- 0#d
+%-d
+%-+d
+%-+ d
+%-+ 0d
+%-+ 0#d
+% d
+% +d
+% +-d
+% +-0d
+% +-0#d
+%0d
+%0+d
+%0+-d
+%0+- d
+%0+- #d
+%#d
+%#+d
+%#+-d
+%#+- d
+%#+- 0d
+%+hd
+%+hhd
+%+hhld
+%+hhlld
+%+-hd
+%+-hhd
+%+-hhld
+%+-hhlld
+%+- hd
+%+- hhd
+%+- hhld
+%+- hhlld
+%+- 0hd
+%+- 0hhd
+%+- 0hhld
+%+- 0hhlld
+%+- 0#hd
+%+- 0#hhd
+%+- 0#hhld
+%+- 0#hhlld
+%-hd
+%-hhd
+%-hhld
+%-hhlld
+%-+hd
+%-+hhd
+%-+hhld
+%-+hhlld
+%-+ hd
+%-+ hhd
+%-+ hhld
+%-+ hhlld
+%-+ 0hd
+%-+ 0hhd
+%-+ 0hhld
+%-+ 0hhlld
+%-+ 0#hd
+%-+ 0#hhd
+%-+ 0#hhld
+%-+ 0#hhlld
+% hd
+% hhd
+% hhld
+% hhlld
+% +hd
+% +hhd
+% +hhld
+% +hhlld
+% +-hd
+% +-hhd
+% +-hhld
+% +-hhlld
+% +-0hd
+% +-0hhd
+% +-0hhld
+% +-0hhlld
+% +-0#hd
+% +-0#hhd
+% +-0#hhld
+% +-0#hhlld
+%0hd
+%0hhd
+%0hhld
+%0hhlld
+%0+hd
+%0+hhd
+%0+hhld
+%0+hhlld
+%0+-hd
+%0+-hhd
+%0+-hhld
+%0+-hhlld
+%0+- hd
+%0+- hhd
+%0+- hhld
+%0+- hhlld
+%0+- #hd
+%0+- #hhd
+%0+- #hhld
+%0+- #hhlld
+%#hd
+%#hhd
+%#hhld
+%#hhlld
+%#+hd
+%#+hhd
+%#+hhld
+%#+hhlld
+%#+-hd
+%#+-hhd
+%#+-hhld
+%#+-hhlld
+%#+- hd
+%#+- hhd
+%#+- hhld
+%#+- hhlld
+%#+- 0hd
+%#+- 0hhd
+%#+- 0hhld
+%#+- 0hhlld

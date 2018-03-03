@@ -1,0 +1,125 @@
+%+*i
+%+-*i
+%+- *i
+%+- 0*i
+%+- 0#*i
+%-*i
+%-+*i
+%-+ *i
+%-+ 0*i
+%-+ 0#*i
+% *i
+% +*i
+% +-*i
+% +-0*i
+% +-0#*i
+%0*i
+%0+*i
+%0+-*i
+%0+- *i
+%0+- #*i
+%#*i
+%#+*i
+%#+-*i
+%#+- *i
+%#+- 0*i
+%+h*i
+%+hh*i
+%+hhl*i
+%+hhll*i
+%+-h*i
+%+-hh*i
+%+-hhl*i
+%+-hhll*i
+%+- h*i
+%+- hh*i
+%+- hhl*i
+%+- hhll*i
+%+- 0h*i
+%+- 0hh*i
+%+- 0hhl*i
+%+- 0hhll*i
+%+- 0#h*i
+%+- 0#hh*i
+%+- 0#hhl*i
+%+- 0#hhll*i
+%-h*i
+%-hh*i
+%-hhl*i
+%-hhll*i
+%-+h*i
+%-+hh*i
+%-+hhl*i
+%-+hhll*i
+%-+ h*i
+%-+ hh*i
+%-+ hhl*i
+%-+ hhll*i
+%-+ 0h*i
+%-+ 0hh*i
+%-+ 0hhl*i
+%-+ 0hhll*i
+%-+ 0#h*i
+%-+ 0#hh*i
+%-+ 0#hhl*i
+%-+ 0#hhll*i
+% h*i
+% hh*i
+% hhl*i
+% hhll*i
+% +h*i
+% +hh*i
+% +hhl*i
+% +hhll*i
+% +-h*i
+% +-hh*i
+% +-hhl*i
+% +-hhll*i
+% +-0h*i
+% +-0hh*i
+% +-0hhl*i
+% +-0hhll*i
+% +-0#h*i
+% +-0#hh*i
+% +-0#hhl*i
+% +-0#hhll*i
+%0h*i
+%0hh*i
+%0hhl*i
+%0hhll*i
+%0+h*i
+%0+hh*i
+%0+hhl*i
+%0+hhll*i
+%0+-h*i
+%0+-hh*i
+%0+-hhl*i
+%0+-hhll*i
+%0+- h*i
+%0+- hh*i
+%0+- hhl*i
+%0+- hhll*i
+%0+- #h*i
+%0+- #hh*i
+%0+- #hhl*i
+%0+- #hhll*i
+%#h*i
+%#hh*i
+%#hhl*i
+%#hhll*i
+%#+h*i
+%#+hh*i
+%#+hhl*i
+%#+hhll*i
+%#+-h*i
+%#+-hh*i
+%#+-hhl*i
+%#+-hhll*i
+%#+- h*i
+%#+- hh*i
+%#+- hhl*i
+%#+- hhll*i
+%#+- 0h*i
+%#+- 0hh*i
+%#+- 0hhl*i
+%#+- 0hhll*i

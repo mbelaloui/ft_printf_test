@@ -1,0 +1,126 @@
+%X
+%+X
+%+-X
+%+- X
+%+- 0X
+%+- 0#X
+%-X
+%-+X
+%-+ X
+%-+ 0X
+%-+ 0#X
+% X
+% +X
+% +-X
+% +-0X
+% +-0#X
+%0X
+%0+X
+%0+-X
+%0+- X
+%0+- #X
+%#X
+%#+X
+%#+-X
+%#+- X
+%#+- 0X
+%+hX
+%+hhX
+%+hhlX
+%+hhllX
+%+-hX
+%+-hhX
+%+-hhlX
+%+-hhllX
+%+- hX
+%+- hhX
+%+- hhlX
+%+- hhllX
+%+- 0hX
+%+- 0hhX
+%+- 0hhlX
+%+- 0hhllX
+%+- 0#hX
+%+- 0#hhX
+%+- 0#hhlX
+%+- 0#hhllX
+%-hX
+%-hhX
+%-hhlX
+%-hhllX
+%-+hX
+%-+hhX
+%-+hhlX
+%-+hhllX
+%-+ hX
+%-+ hhX
+%-+ hhlX
+%-+ hhllX
+%-+ 0hX
+%-+ 0hhX
+%-+ 0hhlX
+%-+ 0hhllX
+%-+ 0#hX
+%-+ 0#hhX
+%-+ 0#hhlX
+%-+ 0#hhllX
+% hX
+% hhX
+% hhlX
+% hhllX
+% +hX
+% +hhX
+% +hhlX
+% +hhllX
+% +-hX
+% +-hhX
+% +-hhlX
+% +-hhllX
+% +-0hX
+% +-0hhX
+% +-0hhlX
+% +-0hhllX
+% +-0#hX
+% +-0#hhX
+% +-0#hhlX
+% +-0#hhllX
+%0hX
+%0hhX
+%0hhlX
+%0hhllX
+%0+hX
+%0+hhX
+%0+hhlX
+%0+hhllX
+%0+-hX
+%0+-hhX
+%0+-hhlX
+%0+-hhllX
+%0+- hX
+%0+- hhX
+%0+- hhlX
+%0+- hhllX
+%0+- #hX
+%0+- #hhX
+%0+- #hhlX
+%0+- #hhllX
+%#hX
+%#hhX
+%#hhlX
+%#hhllX
+%#+hX
+%#+hhX
+%#+hhlX
+%#+hhllX
+%#+-hX
+%#+-hhX
+%#+-hhlX
+%#+-hhllX
+%#+- hX
+%#+- hhX
+%#+- hhlX
+%#+- hhllX
+%#+- 0hX
+%#+- 0hhX
+%#+- 0hhlX
+%#+- 0hhllX

@@ -1,0 +1,126 @@
+%o
+%+o
+%+-o
+%+- o
+%+- 0o
+%+- 0#o
+%-o
+%-+o
+%-+ o
+%-+ 0o
+%-+ 0#o
+% o
+% +o
+% +-o
+% +-0o
+% +-0#o
+%0o
+%0+o
+%0+-o
+%0+- o
+%0+- #o
+%#o
+%#+o
+%#+-o
+%#+- o
+%#+- 0o
+%+ho
+%+hho
+%+hhlo
+%+hhllo
+%+-ho
+%+-hho
+%+-hhlo
+%+-hhllo
+%+- ho
+%+- hho
+%+- hhlo
+%+- hhllo
+%+- 0ho
+%+- 0hho
+%+- 0hhlo
+%+- 0hhllo
+%+- 0#ho
+%+- 0#hho
+%+- 0#hhlo
+%+- 0#hhllo
+%-ho
+%-hho
+%-hhlo
+%-hhllo
+%-+ho
+%-+hho
+%-+hhlo
+%-+hhllo
+%-+ ho
+%-+ hho
+%-+ hhlo
+%-+ hhllo
+%-+ 0ho
+%-+ 0hho
+%-+ 0hhlo
+%-+ 0hhllo
+%-+ 0#ho
+%-+ 0#hho
+%-+ 0#hhlo
+%-+ 0#hhllo
+% ho
+% hho
+% hhlo
+% hhllo
+% +ho
+% +hho
+% +hhlo
+% +hhllo
+% +-ho
+% +-hho
+% +-hhlo
+% +-hhllo
+% +-0ho
+% +-0hho
+% +-0hhlo
+% +-0hhllo
+% +-0#ho
+% +-0#hho
+% +-0#hhlo
+% +-0#hhllo
+%0ho
+%0hho
+%0hhlo
+%0hhllo
+%0+ho
+%0+hho
+%0+hhlo
+%0+hhllo
+%0+-ho
+%0+-hho
+%0+-hhlo
+%0+-hhllo
+%0+- ho
+%0+- hho
+%0+- hhlo
+%0+- hhllo
+%0+- #ho
+%0+- #hho
+%0+- #hhlo
+%0+- #hhllo
+%#ho
+%#hho
+%#hhlo
+%#hhllo
+%#+ho
+%#+hho
+%#+hhlo
+%#+hhllo
+%#+-ho
+%#+-hho
+%#+-hhlo
+%#+-hhllo
+%#+- ho
+%#+- hho
+%#+- hhlo
+%#+- hhllo
+%#+- 0ho
+%#+- 0hho
+%#+- 0hhlo
+%#+- 0hhllo

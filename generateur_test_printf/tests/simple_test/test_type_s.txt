@@ -1,0 +1,126 @@
+%s
+%+s
+%+-s
+%+- s
+%+- 0s
+%+- 0#s
+%-s
+%-+s
+%-+ s
+%-+ 0s
+%-+ 0#s
+% s
+% +s
+% +-s
+% +-0s
+% +-0#s
+%0s
+%0+s
+%0+-s
+%0+- s
+%0+- #s
+%#s
+%#+s
+%#+-s
+%#+- s
+%#+- 0s
+%+hs
+%+hhs
+%+hhls
+%+hhlls
+%+-hs
+%+-hhs
+%+-hhls
+%+-hhlls
+%+- hs
+%+- hhs
+%+- hhls
+%+- hhlls
+%+- 0hs
+%+- 0hhs
+%+- 0hhls
+%+- 0hhlls
+%+- 0#hs
+%+- 0#hhs
+%+- 0#hhls
+%+- 0#hhlls
+%-hs
+%-hhs
+%-hhls
+%-hhlls
+%-+hs
+%-+hhs
+%-+hhls
+%-+hhlls
+%-+ hs
+%-+ hhs
+%-+ hhls
+%-+ hhlls
+%-+ 0hs
+%-+ 0hhs
+%-+ 0hhls
+%-+ 0hhlls
+%-+ 0#hs
+%-+ 0#hhs
+%-+ 0#hhls
+%-+ 0#hhlls
+% hs
+% hhs
+% hhls
+% hhlls
+% +hs
+% +hhs
+% +hhls
+% +hhlls
+% +-hs
+% +-hhs
+% +-hhls
+% +-hhlls
+% +-0hs
+% +-0hhs
+% +-0hhls
+% +-0hhlls
+% +-0#hs
+% +-0#hhs
+% +-0#hhls
+% +-0#hhlls
+%0hs
+%0hhs
+%0hhls
+%0hhlls
+%0+hs
+%0+hhs
+%0+hhls
+%0+hhlls
+%0+-hs
+%0+-hhs
+%0+-hhls
+%0+-hhlls
+%0+- hs
+%0+- hhs
+%0+- hhls
+%0+- hhlls
+%0+- #hs
+%0+- #hhs
+%0+- #hhls
+%0+- #hhlls
+%#hs
+%#hhs
+%#hhls
+%#hhlls
+%#+hs
+%#+hhs
+%#+hhls
+%#+hhlls
+%#+-hs
+%#+-hhs
+%#+-hhls
+%#+-hhlls
+%#+- hs
+%#+- hhs
+%#+- hhls
+%#+- hhlls
+%#+- 0hs
+%#+- 0hhs
+%#+- 0hhls
+%#+- 0hhlls

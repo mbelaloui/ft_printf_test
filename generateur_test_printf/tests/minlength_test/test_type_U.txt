@@ -1,0 +1,125 @@
+%+*U
+%+-*U
+%+- *U
+%+- 0*U
+%+- 0#*U
+%-*U
+%-+*U
+%-+ *U
+%-+ 0*U
+%-+ 0#*U
+% *U
+% +*U
+% +-*U
+% +-0*U
+% +-0#*U
+%0*U
+%0+*U
+%0+-*U
+%0+- *U
+%0+- #*U
+%#*U
+%#+*U
+%#+-*U
+%#+- *U
+%#+- 0*U
+%+h*U
+%+hh*U
+%+hhl*U
+%+hhll*U
+%+-h*U
+%+-hh*U
+%+-hhl*U
+%+-hhll*U
+%+- h*U
+%+- hh*U
+%+- hhl*U
+%+- hhll*U
+%+- 0h*U
+%+- 0hh*U
+%+- 0hhl*U
+%+- 0hhll*U
+%+- 0#h*U
+%+- 0#hh*U
+%+- 0#hhl*U
+%+- 0#hhll*U
+%-h*U
+%-hh*U
+%-hhl*U
+%-hhll*U
+%-+h*U
+%-+hh*U
+%-+hhl*U
+%-+hhll*U
+%-+ h*U
+%-+ hh*U
+%-+ hhl*U
+%-+ hhll*U
+%-+ 0h*U
+%-+ 0hh*U
+%-+ 0hhl*U
+%-+ 0hhll*U
+%-+ 0#h*U
+%-+ 0#hh*U
+%-+ 0#hhl*U
+%-+ 0#hhll*U
+% h*U
+% hh*U
+% hhl*U
+% hhll*U
+% +h*U
+% +hh*U
+% +hhl*U
+% +hhll*U
+% +-h*U
+% +-hh*U
+% +-hhl*U
+% +-hhll*U
+% +-0h*U
+% +-0hh*U
+% +-0hhl*U
+% +-0hhll*U
+% +-0#h*U
+% +-0#hh*U
+% +-0#hhl*U
+% +-0#hhll*U
+%0h*U
+%0hh*U
+%0hhl*U
+%0hhll*U
+%0+h*U
+%0+hh*U
+%0+hhl*U
+%0+hhll*U
+%0+-h*U
+%0+-hh*U
+%0+-hhl*U
+%0+-hhll*U
+%0+- h*U
+%0+- hh*U
+%0+- hhl*U
+%0+- hhll*U
+%0+- #h*U
+%0+- #hh*U
+%0+- #hhl*U
+%0+- #hhll*U
+%#h*U
+%#hh*U
+%#hhl*U
+%#hhll*U
+%#+h*U
+%#+hh*U
+%#+hhl*U
+%#+hhll*U
+%#+-h*U
+%#+-hh*U
+%#+-hhl*U
+%#+-hhll*U
+%#+- h*U
+%#+- hh*U
+%#+- hhl*U
+%#+- hhll*U
+%#+- 0h*U
+%#+- 0hh*U
+%#+- 0hhl*U
+%#+- 0hhll*U

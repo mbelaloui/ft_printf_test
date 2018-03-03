@@ -1,0 +1,126 @@
+%U
+%+U
+%+-U
+%+- U
+%+- 0U
+%+- 0#U
+%-U
+%-+U
+%-+ U
+%-+ 0U
+%-+ 0#U
+% U
+% +U
+% +-U
+% +-0U
+% +-0#U
+%0U
+%0+U
+%0+-U
+%0+- U
+%0+- #U
+%#U
+%#+U
+%#+-U
+%#+- U
+%#+- 0U
+%+hU
+%+hhU
+%+hhlU
+%+hhllU
+%+-hU
+%+-hhU
+%+-hhlU
+%+-hhllU
+%+- hU
+%+- hhU
+%+- hhlU
+%+- hhllU
+%+- 0hU
+%+- 0hhU
+%+- 0hhlU
+%+- 0hhllU
+%+- 0#hU
+%+- 0#hhU
+%+- 0#hhlU
+%+- 0#hhllU
+%-hU
+%-hhU
+%-hhlU
+%-hhllU
+%-+hU
+%-+hhU
+%-+hhlU
+%-+hhllU
+%-+ hU
+%-+ hhU
+%-+ hhlU
+%-+ hhllU
+%-+ 0hU
+%-+ 0hhU
+%-+ 0hhlU
+%-+ 0hhllU
+%-+ 0#hU
+%-+ 0#hhU
+%-+ 0#hhlU
+%-+ 0#hhllU
+% hU
+% hhU
+% hhlU
+% hhllU
+% +hU
+% +hhU
+% +hhlU
+% +hhllU
+% +-hU
+% +-hhU
+% +-hhlU
+% +-hhllU
+% +-0hU
+% +-0hhU
+% +-0hhlU
+% +-0hhllU
+% +-0#hU
+% +-0#hhU
+% +-0#hhlU
+% +-0#hhllU
+%0hU
+%0hhU
+%0hhlU
+%0hhllU
+%0+hU
+%0+hhU
+%0+hhlU
+%0+hhllU
+%0+-hU
+%0+-hhU
+%0+-hhlU
+%0+-hhllU
+%0+- hU
+%0+- hhU
+%0+- hhlU
+%0+- hhllU
+%0+- #hU
+%0+- #hhU
+%0+- #hhlU
+%0+- #hhllU
+%#hU
+%#hhU
+%#hhlU
+%#hhllU
+%#+hU
+%#+hhU
+%#+hhlU
+%#+hhllU
+%#+-hU
+%#+-hhU
+%#+-hhlU
+%#+-hhllU
+%#+- hU
+%#+- hhU
+%#+- hhlU
+%#+- hhllU
+%#+- 0hU
+%#+- 0hhU
+%#+- 0hhlU
+%#+- 0hhllU

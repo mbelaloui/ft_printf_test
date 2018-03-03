@@ -1,0 +1,125 @@
+%+.*o
+%+-.*o
+%+- .*o
+%+- 0.*o
+%+- 0#.*o
+%-.*o
+%-+.*o
+%-+ .*o
+%-+ 0.*o
+%-+ 0#.*o
+% .*o
+% +.*o
+% +-.*o
+% +-0.*o
+% +-0#.*o
+%0.*o
+%0+.*o
+%0+-.*o
+%0+- .*o
+%0+- #.*o
+%#.*o
+%#+.*o
+%#+-.*o
+%#+- .*o
+%#+- 0.*o
+%+h.*o
+%+hh.*o
+%+hhl.*o
+%+hhll.*o
+%+-h.*o
+%+-hh.*o
+%+-hhl.*o
+%+-hhll.*o
+%+- h.*o
+%+- hh.*o
+%+- hhl.*o
+%+- hhll.*o
+%+- 0h.*o
+%+- 0hh.*o
+%+- 0hhl.*o
+%+- 0hhll.*o
+%+- 0#h.*o
+%+- 0#hh.*o
+%+- 0#hhl.*o
+%+- 0#hhll.*o
+%-h.*o
+%-hh.*o
+%-hhl.*o
+%-hhll.*o
+%-+h.*o
+%-+hh.*o
+%-+hhl.*o
+%-+hhll.*o
+%-+ h.*o
+%-+ hh.*o
+%-+ hhl.*o
+%-+ hhll.*o
+%-+ 0h.*o
+%-+ 0hh.*o
+%-+ 0hhl.*o
+%-+ 0hhll.*o
+%-+ 0#h.*o
+%-+ 0#hh.*o
+%-+ 0#hhl.*o
+%-+ 0#hhll.*o
+% h.*o
+% hh.*o
+% hhl.*o
+% hhll.*o
+% +h.*o
+% +hh.*o
+% +hhl.*o
+% +hhll.*o
+% +-h.*o
+% +-hh.*o
+% +-hhl.*o
+% +-hhll.*o
+% +-0h.*o
+% +-0hh.*o
+% +-0hhl.*o
+% +-0hhll.*o
+% +-0#h.*o
+% +-0#hh.*o
+% +-0#hhl.*o
+% +-0#hhll.*o
+%0h.*o
+%0hh.*o
+%0hhl.*o
+%0hhll.*o
+%0+h.*o
+%0+hh.*o
+%0+hhl.*o
+%0+hhll.*o
+%0+-h.*o
+%0+-hh.*o
+%0+-hhl.*o
+%0+-hhll.*o
+%0+- h.*o
+%0+- hh.*o
+%0+- hhl.*o
+%0+- hhll.*o
+%0+- #h.*o
+%0+- #hh.*o
+%0+- #hhl.*o
+%0+- #hhll.*o
+%#h.*o
+%#hh.*o
+%#hhl.*o
+%#hhll.*o
+%#+h.*o
+%#+hh.*o
+%#+hhl.*o
+%#+hhll.*o
+%#+-h.*o
+%#+-hh.*o
+%#+-hhl.*o
+%#+-hhll.*o
+%#+- h.*o
+%#+- hh.*o
+%#+- hhl.*o
+%#+- hhll.*o
+%#+- 0h.*o
+%#+- 0hh.*o
+%#+- 0hhl.*o
+%#+- 0hhll.*o

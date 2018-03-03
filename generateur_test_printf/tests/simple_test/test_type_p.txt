@@ -1,0 +1,126 @@
+%p
+%+p
+%+-p
+%+- p
+%+- 0p
+%+- 0#p
+%-p
+%-+p
+%-+ p
+%-+ 0p
+%-+ 0#p
+% p
+% +p
+% +-p
+% +-0p
+% +-0#p
+%0p
+%0+p
+%0+-p
+%0+- p
+%0+- #p
+%#p
+%#+p
+%#+-p
+%#+- p
+%#+- 0p
+%+hp
+%+hhp
+%+hhlp
+%+hhllp
+%+-hp
+%+-hhp
+%+-hhlp
+%+-hhllp
+%+- hp
+%+- hhp
+%+- hhlp
+%+- hhllp
+%+- 0hp
+%+- 0hhp
+%+- 0hhlp
+%+- 0hhllp
+%+- 0#hp
+%+- 0#hhp
+%+- 0#hhlp
+%+- 0#hhllp
+%-hp
+%-hhp
+%-hhlp
+%-hhllp
+%-+hp
+%-+hhp
+%-+hhlp
+%-+hhllp
+%-+ hp
+%-+ hhp
+%-+ hhlp
+%-+ hhllp
+%-+ 0hp
+%-+ 0hhp
+%-+ 0hhlp
+%-+ 0hhllp
+%-+ 0#hp
+%-+ 0#hhp
+%-+ 0#hhlp
+%-+ 0#hhllp
+% hp
+% hhp
+% hhlp
+% hhllp
+% +hp
+% +hhp
+% +hhlp
+% +hhllp
+% +-hp
+% +-hhp
+% +-hhlp
+% +-hhllp
+% +-0hp
+% +-0hhp
+% +-0hhlp
+% +-0hhllp
+% +-0#hp
+% +-0#hhp
+% +-0#hhlp
+% +-0#hhllp
+%0hp
+%0hhp
+%0hhlp
+%0hhllp
+%0+hp
+%0+hhp
+%0+hhlp
+%0+hhllp
+%0+-hp
+%0+-hhp
+%0+-hhlp
+%0+-hhllp
+%0+- hp
+%0+- hhp
+%0+- hhlp
+%0+- hhllp
+%0+- #hp
+%0+- #hhp
+%0+- #hhlp
+%0+- #hhllp
+%#hp
+%#hhp
+%#hhlp
+%#hhllp
+%#+hp
+%#+hhp
+%#+hhlp
+%#+hhllp
+%#+-hp
+%#+-hhp
+%#+-hhlp
+%#+-hhllp
+%#+- hp
+%#+- hhp
+%#+- hhlp
+%#+- hhllp
+%#+- 0hp
+%#+- 0hhp
+%#+- 0hhlp
+%#+- 0hhllp

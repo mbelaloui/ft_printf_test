@@ -1,0 +1,126 @@
+%i
+%+i
+%+-i
+%+- i
+%+- 0i
+%+- 0#i
+%-i
+%-+i
+%-+ i
+%-+ 0i
+%-+ 0#i
+% i
+% +i
+% +-i
+% +-0i
+% +-0#i
+%0i
+%0+i
+%0+-i
+%0+- i
+%0+- #i
+%#i
+%#+i
+%#+-i
+%#+- i
+%#+- 0i
+%+hi
+%+hhi
+%+hhli
+%+hhlli
+%+-hi
+%+-hhi
+%+-hhli
+%+-hhlli
+%+- hi
+%+- hhi
+%+- hhli
+%+- hhlli
+%+- 0hi
+%+- 0hhi
+%+- 0hhli
+%+- 0hhlli
+%+- 0#hi
+%+- 0#hhi
+%+- 0#hhli
+%+- 0#hhlli
+%-hi
+%-hhi
+%-hhli
+%-hhlli
+%-+hi
+%-+hhi
+%-+hhli
+%-+hhlli
+%-+ hi
+%-+ hhi
+%-+ hhli
+%-+ hhlli
+%-+ 0hi
+%-+ 0hhi
+%-+ 0hhli
+%-+ 0hhlli
+%-+ 0#hi
+%-+ 0#hhi
+%-+ 0#hhli
+%-+ 0#hhlli
+% hi
+% hhi
+% hhli
+% hhlli
+% +hi
+% +hhi
+% +hhli
+% +hhlli
+% +-hi
+% +-hhi
+% +-hhli
+% +-hhlli
+% +-0hi
+% +-0hhi
+% +-0hhli
+% +-0hhlli
+% +-0#hi
+% +-0#hhi
+% +-0#hhli
+% +-0#hhlli
+%0hi
+%0hhi
+%0hhli
+%0hhlli
+%0+hi
+%0+hhi
+%0+hhli
+%0+hhlli
+%0+-hi
+%0+-hhi
+%0+-hhli
+%0+-hhlli
+%0+- hi
+%0+- hhi
+%0+- hhli
+%0+- hhlli
+%0+- #hi
+%0+- #hhi
+%0+- #hhli
+%0+- #hhlli
+%#hi
+%#hhi
+%#hhli
+%#hhlli
+%#+hi
+%#+hhi
+%#+hhli
+%#+hhlli
+%#+-hi
+%#+-hhi
+%#+-hhli
+%#+-hhlli
+%#+- hi
+%#+- hhi
+%#+- hhli
+%#+- hhlli
+%#+- 0hi
+%#+- 0hhi
+%#+- 0hhli
+%#+- 0hhlli
