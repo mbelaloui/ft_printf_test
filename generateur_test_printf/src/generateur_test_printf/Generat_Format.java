@@ -7,7 +7,6 @@ import java.util.ArrayList;
 
 public class Generat_Format
 {
-
 	private void add_flags()
 	{
 		flags.add(plus);
