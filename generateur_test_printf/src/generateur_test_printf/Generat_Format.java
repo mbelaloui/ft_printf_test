@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class Generat_Format
 {
-	
+
 	private void add_flags()
 	{
 		flags.add(plus);
@@ -16,7 +16,7 @@ public class Generat_Format
 		flags.add(zero);
 		flags.add(hashtag);
 	}
-	
+
 	private void add_conversions()
 	{
 		conversion.add(conversion_h);
@@ -24,7 +24,7 @@ public class Generat_Format
 		conversion.add(conversion_l);
 		conversion.add(conversion_ll);
 	}
-	
+
 	private void generate_flags()
 	{
 		for (int a = 0; a < flags.size(); a++)
@@ -32,8 +32,6 @@ public class Generat_Format
 			format = "%";
 			format = format+flags.get(a);
 			result.add(format);
-
-
 			for (int b = 0; b < flags.size(); b++)
 			{
 				if(a == b && b + 1 < flags.size())
@@ -46,7 +44,7 @@ public class Generat_Format
 			}
 		}
 	}
-	
+
 	private void generate_conversion()
 	{		
 		size = result.size();
@@ -60,7 +58,7 @@ public class Generat_Format
 			}
 		}
 	}
-	
+
 	private void generate_outPutFiles() 
 	{
 		generate_simple_outPutFiles();
@@ -68,108 +66,118 @@ public class Generat_Format
 		generate_outPutFiles_precision();
 		generate_outPutFiles_minlength_precision();
 	}
-	
+
 	private void generate_simple_outPutFiles()
 	{
 		size = result.size();
-		 try
-		 {
-			 for (int d = 0; d < type.length(); d++)
-			 { 
-				 file_name  ="tests//simple_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
-				 System.out.println(file_name);
-				 bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
-				 bufferOutput.write("%"+String.valueOf(type.charAt(d))+"\n");
-				 for (int c = 0; c < size; c++)
-				 {
-					 format = result.get(c);
-					 format = format + type.charAt(d);
-					 bufferOutput.write(format+"\n");
-				 }
-				 bufferOutput.close();
-			 }
-		 } catch (Exception e) {
-			 // TODO: handle exception
-		 }
+		try
+		{
+			for (int d = 0; d < type.length(); d++)
+			{ 
+				file_name  ="tests//simple_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
+				System.out.println(file_name);
+				bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
+				bufferOutput.write("%"+String.valueOf(type.charAt(d))+"\n");
+				for (int c = 0; c < size; c++)
+				{
+					format = result.get(c);
+					format = format + type.charAt(d);
+					bufferOutput.write(format+"\n");
+				}
+				bufferOutput.close();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 	private void generate_outPutFiles_minlength()
 	{
 		size = result.size();
-		 try
-		 {
-			 for (int d = 0; d < type.length(); d++)
-			 { 
-				 file_name  ="tests//minlength_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
-				 System.out.println(file_name);
-				 bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
-				 for (int c = 0; c < size; c++)
-				 {
-					 format = result.get(c);
-					 format = format+ "*" +type.charAt(d);
-					 bufferOutput.write(format+"\n");
-				 }
-				 bufferOutput.close();
-			 }
-		 } catch (Exception e) {
-			 // TODO: handle exception
-		 }
+		try
+		{
+			for (int d = 0; d < type.length(); d++)
+			{ 
+				file_name  ="tests//minlength_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
+				System.out.println(file_name);
+				bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
+
+				format = "%*" +type.charAt(d);
+				bufferOutput.write(format+"\n");
+
+				for (int c = 0; c < size; c++)
+				{
+					format = result.get(c);
+					format = format+ "*" +type.charAt(d);
+					bufferOutput.write(format+"\n");
+				}
+				bufferOutput.close();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 	private void generate_outPutFiles_precision()
 	{
 		size = result.size();
-		 try
-		 {
-			 for (int d = 0; d < type.length(); d++)
-			 { 
-				 file_name  ="tests//precision_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
-				 System.out.println(file_name);
-				 bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
-				 for (int c = 0; c < size; c++)
-				 {
-					 format = result.get(c);
-					 format = format+ ".*" +type.charAt(d);
-					 bufferOutput.write(format+"\n");
-				 }
-				 bufferOutput.close();
-			 }
-		 } catch (Exception e) {
-			 // TODO: handle exception
-		 }		
+		try
+		{
+			for (int d = 0; d < type.length(); d++)
+			{ 
+				file_name  ="tests//precision_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
+				System.out.println(file_name);
+				bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
+
+				format = "%.*" +type.charAt(d);
+				bufferOutput.write(format+"\n");
+				
+				for (int c = 0; c < size; c++)
+				{
+					format = result.get(c);
+					format = format+ ".*" +type.charAt(d);
+					bufferOutput.write(format+"\n");
+				}
+				bufferOutput.close();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}		
 	}
 
 	private void generate_outPutFiles_minlength_precision()
 	{
 		size = result.size();
-		 try
-		 {
-			 for (int d = 0; d < type.length(); d++)
-			 { 
-				 file_name  ="tests//minlength_precision_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
-				 System.out.println(file_name);
-				 bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
-				 for (int c = 0; c < size; c++)
-				 {
-					 format = result.get(c);
-					 format = format+ "*.*" +type.charAt(d);
-					 bufferOutput.write(format+"\n");
-				 }
-				 bufferOutput.close();
-			 }
-		 } catch (Exception e) {
-			 // TODO: handle exception
-		 }		
+		try
+		{
+			for (int d = 0; d < type.length(); d++)
+			{ 
+				file_name  ="tests//minlength_precision_test//test_type_"+ String.valueOf(type.charAt(d)) +".txt";
+				System.out.println(file_name);
+				bufferOutput = new BufferedWriter(new FileWriter (new File (file_name) ));
+				format = "%*.*" +type.charAt(d);
+				bufferOutput.write(format+"\n");
+				for (int c = 0; c < size; c++)
+				{
+					format = result.get(c);
+					format = format+ "*.*" +type.charAt(d);
+					bufferOutput.write(format+"\n");
+				}
+				bufferOutput.close();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}		
 	}
 
 	public void run()
 	{
 		add_flags();
 		add_conversions();
-		
+
 		generate_flags();
 		generate_conversion();
-	
+
 		generate_outPutFiles();
 	}
 
